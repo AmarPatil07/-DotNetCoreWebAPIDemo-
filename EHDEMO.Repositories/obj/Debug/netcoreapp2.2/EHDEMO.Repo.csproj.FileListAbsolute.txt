@@ -1,0 +1,16 @@
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\bin\Debug\netcoreapp2.2\EHDEMO.Repo.deps.json
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\bin\Debug\netcoreapp2.2\EHDEMO.Repo.runtimeconfig.json
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\bin\Debug\netcoreapp2.2\EHDEMO.Repo.runtimeconfig.dev.json
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\bin\Debug\netcoreapp2.2\EHDEMO.Repo.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\bin\Debug\netcoreapp2.2\EHDEMO.Repo.pdb
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\bin\Debug\netcoreapp2.2\EHDEMO.Domain.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\bin\Debug\netcoreapp2.2\EHDEMO.Domain.pdb
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\obj\Debug\netcoreapp2.2\EHDEMO.Repo.csprojAssemblyReference.cache
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\obj\Debug\netcoreapp2.2\EHDEMO.Repo.csproj.CoreCompileInputs.cache
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\obj\Debug\netcoreapp2.2\EHDEMO.Repo.AssemblyInfoInputs.cache
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\obj\Debug\netcoreapp2.2\EHDEMO.Repo.AssemblyInfo.cs
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\obj\Debug\netcoreapp2.2\EHDEMO.Repo.csproj.CopyComplete
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\obj\Debug\netcoreapp2.2\EHDEMO.Repo.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Repositories\obj\Debug\netcoreapp2.2\EHDEMO.Repo.pdb

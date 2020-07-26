@@ -1,0 +1,8 @@
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Data\bin\Debug\netcoreapp2.2\EHDEMO.Data.deps.json
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Data\bin\Debug\netcoreapp2.2\EHDEMO.Data.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Data\bin\Debug\netcoreapp2.2\EHDEMO.Data.pdb
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Data\obj\Debug\netcoreapp2.2\EHDEMO.Data.csproj.CoreCompileInputs.cache
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Data\obj\Debug\netcoreapp2.2\EHDEMO.Data.AssemblyInfoInputs.cache
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Data\obj\Debug\netcoreapp2.2\EHDEMO.Data.AssemblyInfo.cs
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Data\obj\Debug\netcoreapp2.2\EHDEMO.Data.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Data\obj\Debug\netcoreapp2.2\EHDEMO.Data.pdb

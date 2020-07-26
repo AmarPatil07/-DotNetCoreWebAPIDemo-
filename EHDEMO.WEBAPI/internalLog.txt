@@ -1,0 +1,55 @@
+2020-07-26 17:55:36.2277 Info Message Template Auto Format enabled
+2020-07-26 17:55:36.2907 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 17:55:36.4577 Info Adding target FileTarget(Name=alldata)
+2020-07-26 17:55:36.4727 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 17:55:36.5627 Info Found 45 configuration items
+2020-07-26 18:21:42.0917 Info Message Template Auto Format enabled
+2020-07-26 18:21:42.1437 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 18:21:42.4237 Info Adding target FileTarget(Name=alldata)
+2020-07-26 18:21:42.4447 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 18:21:42.5157 Info Found 45 configuration items
+2020-07-26 18:35:45.5077 Info Message Template Auto Format enabled
+2020-07-26 18:35:45.5387 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 18:35:45.6797 Info Adding target FileTarget(Name=alldata)
+2020-07-26 18:35:45.7087 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 18:35:45.7807 Info Found 45 configuration items
+2020-07-26 18:42:55.0337 Info Message Template Auto Format enabled
+2020-07-26 18:42:55.0587 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 18:42:55.1787 Info Adding target FileTarget(Name=alldata)
+2020-07-26 18:42:55.1947 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 18:42:55.2637 Info Found 45 configuration items
+2020-07-26 18:50:17.5977 Info Message Template Auto Format enabled
+2020-07-26 18:50:17.6257 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 18:50:17.7447 Info Adding target FileTarget(Name=alldata)
+2020-07-26 18:50:17.7607 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 18:50:17.8337 Info Found 45 configuration items
+2020-07-26 19:03:57.6287 Info Message Template Auto Format enabled
+2020-07-26 19:03:57.6497 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 19:03:57.8037 Info Adding target FileTarget(Name=alldata)
+2020-07-26 19:03:57.8377 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 19:03:57.9087 Info Found 45 configuration items
+2020-07-26 19:21:31.8687 Info Message Template Auto Format enabled
+2020-07-26 19:21:31.9107 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 19:21:32.0417 Info Adding target FileTarget(Name=alldata)
+2020-07-26 19:21:32.0547 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 19:21:32.1157 Info Found 45 configuration items
+2020-07-26 19:32:29.3887 Info Message Template Auto Format enabled
+2020-07-26 19:32:29.4117 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 19:32:29.9337 Info Adding target FileTarget(Name=alldata)
+2020-07-26 19:32:30.0457 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 19:32:30.1427 Info Found 45 configuration items
+2020-07-26 19:36:10.7007 Info Message Template Auto Format enabled
+2020-07-26 19:36:10.7197 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 19:36:10.9877 Info Adding target FileTarget(Name=alldata)
+2020-07-26 19:36:11.0067 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 19:36:11.0887 Info Found 45 configuration items
+2020-07-26 21:09:12.5863 Info Message Template Auto Format enabled
+2020-07-26 21:09:12.6063 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 21:09:12.7513 Info Adding target FileTarget(Name=alldata)
+2020-07-26 21:09:12.7673 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 21:09:12.8433 Info Found 45 configuration items
+2020-07-26 21:12:45.6223 Info Message Template Auto Format enabled
+2020-07-26 21:12:45.6403 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-26 21:12:45.7593 Info Adding target FileTarget(Name=alldata)
+2020-07-26 21:12:45.7713 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-26 21:12:45.8263 Info Found 45 configuration items

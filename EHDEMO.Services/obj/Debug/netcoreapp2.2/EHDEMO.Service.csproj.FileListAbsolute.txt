@@ -1,0 +1,14 @@
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\bin\Debug\netcoreapp2.2\EHDEMO.Service.deps.json
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\bin\Debug\netcoreapp2.2\EHDEMO.Service.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\bin\Debug\netcoreapp2.2\EHDEMO.Service.pdb
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\bin\Debug\netcoreapp2.2\EHDEMO.Domain.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\bin\Debug\netcoreapp2.2\EHDEMO.Domain.pdb
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\obj\Debug\netcoreapp2.2\EHDEMO.Service.csprojAssemblyReference.cache
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\obj\Debug\netcoreapp2.2\EHDEMO.Service.csproj.CoreCompileInputs.cache
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\obj\Debug\netcoreapp2.2\EHDEMO.Service.AssemblyInfoInputs.cache
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\obj\Debug\netcoreapp2.2\EHDEMO.Service.AssemblyInfo.cs
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\obj\Debug\netcoreapp2.2\EHDEMO.Service.csproj.CopyComplete
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\obj\Debug\netcoreapp2.2\EHDEMO.Service.dll
+D:\Amar Patil\EHDEMO.WEBAPI\EHDEMO.Services\obj\Debug\netcoreapp2.2\EHDEMO.Service.pdb
